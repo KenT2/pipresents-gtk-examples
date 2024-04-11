@@ -19,7 +19,7 @@
    "first-track-ref": "first",
    "image-aspect-mode": "warp",
    "image-window": "fullscreen",
-   "links": "pp-key-p play track-p\npp-key-o play track-o\npp-key-b play track-b\npp-key-s play track-s\npp-stop return",
+   "links": "play-p play track-p\nplay-o play track-o\nplay-b play track-b\nplay-s play track-s\npp-stop return\npp-key-p play track-p\npp-key-o play track-o\npp-key-b play track-b\npp-key-s play track-s",
    "medialist": "radiobuttonshow.json",
    "mpv-aspect-mode": "warp",
    "mpv-audio": "HDMI0",
